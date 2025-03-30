@@ -6,8 +6,8 @@ A collection of **machine learning models** implemented using **Scikit-Learn**. 
 
 ## 📌 Implemented & Upcoming Models  
 
-- ✅ **Linear Regression** (Implemented)  
-- 🚧 Logistic Regression (Coming Soon)  
+- ✅ **Linear Regression** 
+- ✅ **Logistic Regression**
 - 🚧 Decision Trees (Coming Soon)  
 - 🚧 Random Forest (Coming Soon)  
 - 🚧 Support Vector Machines (Coming Soon)  
