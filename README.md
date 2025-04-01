@@ -10,8 +10,7 @@ A collection of **machine learning models** implemented using **Scikit-Learn**. 
 - ✅ **Logistic Regression**
 - ✅ **K-Nearest Neighbours**
 - ✅ **Decision Tree**
-- 🚧 Random Forest (Coming Soon)  
-- 🚧 Support Vector Machines (Coming Soon)  
+- ✅ **Random Forest**    
 - 🚧 Neural Networks (Coming Soon)  
 
 ---
