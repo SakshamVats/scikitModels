@@ -19,4 +19,4 @@ forest.fit(X_train, y_train)
 y_pred = forest.predict(X_test)
 
 accuracy = accuracy_score(y_test, y_pred)
-print(f"Random Forest Accuracy: {accuracy:.6f}")
+print(f"Random Forest Accuracy: {accuracy:.2f}")

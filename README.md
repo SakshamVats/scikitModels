@@ -11,7 +11,7 @@ A collection of **machine learning models** implemented using **Scikit-Learn**. 
 - ✅ **K-Nearest Neighbours**
 - ✅ **Decision Tree**
 - ✅ **Random Forest**    
-- 🚧 Neural Networks (Coming Soon)  
+- ✅ **Neural Network (1 Hidden Layer)**  
 
 ---
 
